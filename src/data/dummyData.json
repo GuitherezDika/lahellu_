@@ -1,0 +1,218 @@
+{
+    "data": [
+        {
+            "initial": "D",
+            "name": "Dika",
+            "date": "23-10-2024",
+            "tag": [
+                "animal",
+                "Wildlife",
+                "sea"
+            ],
+            "data": [
+                {
+                    "id": 1,
+                    "type": "video",
+                    "uri": "https://mazwai.com/videvo_files/video/free/2019-01/small_watermarked/181004_04_Dolphins-Whale_06_preview.webm"
+                },
+                {
+                    "id": 2,
+                    "type": "image",
+                    "uri": "https://as2.ftcdn.net/v2/jpg/03/50/76/13/1000_F_350761361_VRW2Xm8N7U0HyO116cWEL9f3YcwfEKIa.jpg"
+                }
+            ]
+        },
+        {
+            "initial": "W",
+            "name": "wedgess",
+            "date": "20-10-2024",
+            "tag": [
+                "sawer",
+                "city",
+                "traffic"
+            ],
+            "data": [
+                {
+                    "id": 1,
+                    "type": "video",
+                    "uri": "https://mazwai.com/videvo_files/video/free/2019-12/small_watermarked/190915_B_01_Timelapse%20Danang_02_preview.webm"
+                },
+                {
+                    "id": 2,
+                    "type": "image",
+                    "uri": "https://as2.ftcdn.net/v2/jpg/03/50/76/13/1000_F_350761361_VRW2Xm8N7U0HyO116cWEL9f3YcwfEKIa.jpg"
+                },
+                {
+                    "id": 3,
+                    "type": "image",
+                    "uri": "https://img.freepik.com/free-photo/funny-monkey-with-glasses-studio_23-2150844100.jpg"
+                }
+            ]
+        },
+        {
+            "initial": "S",
+            "name": "sari",
+            "date": "20-10-2024",
+            "tag": [
+                "car",
+                "race",
+                "driving",
+                "anime",
+                "funny monkey"
+            ],
+            "type": "video",
+            "data": [
+                {
+                    "id": 1,
+                    "type": "video",
+                    "uri": "https://mazwai.com/videvo_files/video/free/2019-01/small_watermarked/181004_04_Dolphins-Whale_06_preview.webm?v=1946646"
+                },
+                {
+                    "id": 2,
+                    "type": "image",
+                    "uri": "https://img.freepik.com/free-photo/funny-monkey-with-glasses-studio_23-2150844100.jpg"
+                }
+            ]
+        },
+        {
+            "initial": "G",
+            "name": "gana",
+            "date": "19-10-2024",
+            "tag": [
+                "shouting",
+                "sawer",
+                "drinking"
+            ],
+            "data": [
+                {
+                    "id": 1,
+                    "type": "image",
+                    "uri": "https://img.freepik.com/free-photo/funny-monkey-with-glasses-studio_23-2150844100.jpg"
+                },
+                {
+                    "id": 2,
+                    "type": "image",
+                    "uri": "https://img.freepik.com/free-photo/brazilian-man-having-guarana-drink-outdoors_23-2150765674.jpg?ga=GA1.1.1382329866.1719495990"
+                }
+            ]
+        },
+        {
+            "initial": "M",
+            "name": "melan",
+            "date": "19-10-2024",
+            "tag": [
+                "joy",
+                "sawer"
+            ],
+            "data": [
+                {
+                    "id": 1,
+                    "type": "image",
+                    "uri": "https://cdn.pixabay.com/photo/2015/01/13/14/53/couple-598315_960_720.jpg"
+                }
+            ]
+        },
+        {
+            "initial": "R",
+            "name": "rudi",
+            "date": "19-10-2024",
+            "tag": [
+                "loughing",
+                "sawer",
+                "upstream",
+                "menyala",
+                "couple"
+            ],
+            "data": [
+                {
+                    "id": 1,
+                    "type": "video",
+                    "uri": "https://mazwai.com/videvo_files/video/free/2017-12/small_watermarked/171124_B1_HD_001_preview.webm"
+                },
+                {
+                    "id": 2,
+                    "type": "image",
+                    "uri": "https://cdn.pixabay.com/photo/2015/01/13/14/53/couple-598315_960_720.jpg"
+                }
+            ]
+        },
+        {
+            "initial": "A",
+            "name": "agus",
+            "date": "24-10-2024",
+            "tag": [
+                "walk",
+                "sawer",
+                "menyala"
+            ],
+            "data": [
+                {
+                    "id": 1,
+                    "type": "video",
+                    "uri": "https://mazwai.com/videvo_files/video/free/2017-12/small_watermarked/171124_A1_HD_021_preview.webm"
+                },
+                {
+                    "id": 2,
+                    "type": "image",
+                    "uri": "https://img.freepik.com/free-photo/funny-monkey-with-glasses-studio_23-2150844100.jpg"
+                }
+            ]
+        },
+        {
+            "initial": "R",
+            "name": "risna",
+            "date": "24-10-2024",
+            "tag": [
+                "exit",
+                "sawer",
+                "out"
+            ],
+            "data": [
+                {
+                    "id": 1,
+                    "type": "image",
+                    "uri": "https://cdn.pixabay.com/photo/2023/12/11/12/03/exit-sign-8443453_1280.jpg"
+                }
+            ]
+        },
+        {
+            "initial": "A",
+            "name": "ale",
+            "date": "24-10-2024",
+            "tag": [
+                "batman",
+                "sawer",
+                "escapes"
+            ],
+            "data": [
+                {
+                    "id": 1,
+                    "type": "video",
+                    "uri": "https://mazwai.com/videvo_files/video/free/2015-06/small_watermarked/Raindrops_Macro2_Videvo_preview.webm"
+                }
+            ]
+        },
+    {
+            "initial": "U",
+            "name": "unyy",
+            "date": "24-10-2024",
+            "tag": [
+                "skeleton",
+                "sawer",
+                "skull"
+            ],
+            "data": [
+                {
+                    "id": 1,
+                    "type": "image",
+                    "uri": "https://cdn.pixabay.com/photo/2024/06/11/00/25/taxidermist-8821603_960_720.jpg"
+                },
+                {
+                    "id": 2,
+                    "type": "image",
+                    "uri": "https://img.freepik.com/free-photo/funny-monkey-with-glasses-studio_23-2150844100.jpg"
+                }
+            ]
+        }
+    ]
+}
